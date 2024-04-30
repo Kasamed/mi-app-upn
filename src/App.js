@@ -104,6 +104,10 @@ function App() {
             <input name="ape" onChange={handleChange2}/>
           </label>
           <label>
+            <p>Fecha de Nacimiento</p>
+            <input name="FechaNac" onChange={handleChange5}/>
+          </label>
+          <label>
             <p>Direccion</p>
             <input name="Direccion" onChange={handleChange4}/>
           </label>
